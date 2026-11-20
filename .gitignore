@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Configuración de Firebase (no subir)
+google-services.json
